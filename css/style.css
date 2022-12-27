@@ -23,7 +23,8 @@ body {
     display: flex;
     z-index: 1000;
     position: absolute;
-    background-color: white;
+        background:linear-gradient(to right, rgb(139, 103, 76) 0%, rgb(139, 103, 76) 100%);
+
 }
 
 
